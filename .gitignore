@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/CeciMT/.vscode
+/CeciMT/CeciMT.Test/.vscode
+/CeciMT/CeciMT.WebApplication/appsettings.Production.json
